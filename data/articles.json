@@ -1,0 +1,58 @@
+{
+    "Slide1":{
+    "image":"http://placehold.it/500/ccc?text=1",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide2":{
+    "image":"http://placehold.it/500/ccc?text=2",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide3":{
+    "image":"http://placehold.it/500/ccc?text=3",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide4":{
+    "image":"http://placehold.it/500/ccc?text=4",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide5":{
+    "image":"http://placehold.it/500/ccc?text=5",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide6":{
+    "image":"http://placehold.it/500/ccc?text=6",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide7":{
+    "image":"http://placehold.it/500/ccc?text=7",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    },
+    "Slide8":{
+    "image":"http://placehold.it/500/ccc?text=8",
+    "text": "Lorem ipsum dolor sit amet consectetur",
+    "authorImage":"",
+    "author": "Lorem Ipsum",
+    "articleDate": "02/12/17"
+    }
+}
