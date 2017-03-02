@@ -1,58 +1,58 @@
 {
-    "Slide1":{
-    "image":"http://placehold.it/500/ccc?text=1",
+    "0" :{
+    "image":"http://placehold.it/250/ccc?text=1",
     "text": "Lorem ipsum dolor sit amet consectetur",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Richard Singer",
     "articleDate": "02/12/17"
     },
-    "Slide2":{
-    "image":"http://placehold.it/500/ccc?text=2",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "1" :{
+    "image":"http://placehold.it/250/ccc?text=2",
+    "text": "reprehenderit in voluptate velit esse cillum dolore eu",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Mike Jackson",
     "articleDate": "02/12/17"
     },
-    "Slide3":{
-    "image":"http://placehold.it/500/ccc?text=3",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "2" :{
+    "image":"http://placehold.it/250/ccc?text=3",
+    "text": "nostrud exercitation ullamco laboris nisi ut aliquip ex",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Thomas Panda",
     "articleDate": "02/12/17"
     },
-    "Slide4":{
-    "image":"http://placehold.it/500/ccc?text=4",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "3" :{
+    "image":"http://placehold.it/250/ccc?text=4",
+    "text": "ea commodo consequat. Duis aute irure dolor in",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Drew Warren",
     "articleDate": "02/12/17"
     },
-    "Slide5":{
-    "image":"http://placehold.it/500/ccc?text=5",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "4" :{
+    "image":"http://placehold.it/250/ccc?text=5",
+    "text": "Lorem ipsum dolor sit amet consectetur Duis aute irure dolor",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Ashley LaMar",
     "articleDate": "02/12/17"
     },
-    "Slide6":{
-    "image":"http://placehold.it/500/ccc?text=6",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "5" :{
+    "image":"http://placehold.it/250/ccc?text=6",
+    "text": "Duis aute irure dolor in reprehenderit in voluptate",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Kevin Utah",
     "articleDate": "02/12/17"
     },
-    "Slide7":{
-    "image":"http://placehold.it/500/ccc?text=7",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "6" :{
+    "image":"http://placehold.it/250/ccc?text=7",
+    "text": "Excepteur sint occaecat cupidatat non proident",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Joni M",
     "articleDate": "02/12/17"
     },
-    "Slide8":{
-    "image":"http://placehold.it/500/ccc?text=8",
-    "text": "Lorem ipsum dolor sit amet consectetur",
+    "7" :{
+    "image":"http://placehold.it/250/ccc?text=8",
+    "text": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "authorImage":"",
-    "author": "Lorem Ipsum",
+    "author": "Matt Sadaukas",
     "articleDate": "02/12/17"
     }
 }
